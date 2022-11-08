@@ -10,6 +10,7 @@ I'm a Web3 security researcher, here's a collection of some of my findings at [C
 * [Vault implementation can be destroyed leading to loss of all assets](https://github.com/code-423n4/2022-07-fractional-findings/issues/200)
 * [Fraction price is not updated when total supply changes
 ](https://github.com/code-423n4/2022-07-fractional-findings/issues/337)
+* [Try-catch block doesn't catch all errors](https://code4rena.com/reports/2022-09-nouns-builder#m-12-try-catch-block-at-auction_createauction-will-only-catch-string-errors)
 
 
  (I've included only a small sample, plus the recent contests aren't public yet, will update as they become public)
